@@ -12,7 +12,7 @@
 //                    Global variables
 //***********************************************************************
 
-#define CW 1
+#define CW 1 
 #define CCW 2
 
 uint8_t A_old = 1; //Past value of the A switch of the encoder
